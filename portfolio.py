@@ -2,9 +2,9 @@ import telebot
 from telebot import types
 from pycoingecko import CoinGeckoAPI
 cg = CoinGeckoAPI()
-api_token='5527194644:AAERoYvO7ENCmQhUA0SdBTOZbUmSXpzRfA8'
+api_token='__________insert_your_token_here____________'
 
-bot = telebot.TeleBot('5527194644:AAERoYvO7ENCmQhUA0SdBTOZbUmSXpzRfA8')
+bot = telebot.TeleBot('__________insert_your_token_here____________')
 
 
 @bot.message_handler(commands=['start'])
