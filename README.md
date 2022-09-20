@@ -1,2 +1,1 @@
-# portfolio_bot
-# telegram_portfolio_tracker_bot
+Simple instruction on how to creat telegram portfolio bot
